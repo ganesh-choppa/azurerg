@@ -1,0 +1,2 @@
+# azurerg
+create azure rg
